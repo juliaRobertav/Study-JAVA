@@ -1,0 +1,14 @@
+Orientação a Objetos com Java
+
+Classe:
+
+Uma classe é um gabarito para a definição de projetos
+Exemplo: um projeto de arquiteto que tem as definições para oque vai ser a casa
+
+Através de uma classe, descreve que propriedades/atributos e métodos/ações o objeto tera
+Exemplo: ser humano - 
+atributos e propriedades -> cor dos olhos, altura, cor do cabelo 
+ações - oque pode fazer ->correr, pular
+
+*Tudo que consigo manter - atributo
+Os métodos - comportamento

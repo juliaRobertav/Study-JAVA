@@ -1,0 +1,10 @@
+DESAFIO JAVA
+
+posição inicial
+posição final
+posição trem A
+posição trem B
+velocidade trem A(velocidade positiva)
+velocidade trem B(velocidade negativa)
+posição final A == posição final B:colisão
+usuário:posição inicial e velocidade(Km/h---seg)

@@ -1,0 +1,12 @@
+Classes
+
+ex:
+String(classe) nome(instância/objeto);
+atributos - variáveis
+métodos - funções
+
+
+classe: primeira letra maiusculo(junto)
+instancia:  minusculo
+ex: Aluno/aluno
+		
