@@ -8,3 +8,4 @@
 ## Aulas
 
 * [Aula 1 - Java](aulas/readme.md)
+* [Classes](aulas/classes.md)

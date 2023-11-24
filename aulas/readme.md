@@ -42,5 +42,3 @@ JAVA
 
 {% embed url="https://www.devmedia.com.br/introducao-as-plataformas-java/29544" %}
 
-#### Como Java funciona
-
